@@ -1,154 +1,116 @@
 <div align="center">
-  <img src="https://github.com/vmp123pp.png" width="180" style="border-radius:50%; border:6px solid #00ff88; box-shadow:0 0 40px #00ff88, 0 0 15px #00ff88 inset">
+  <img src="https://github.com/vmp123pp.png" width="160" style="border-radius:50%; border:4px solid #00FFFF; box-shadow:0 0 25px #00FFFF, 0 0 10px #00FFFF inset">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=4000&color=00ff88&center=true&vCenter=true&lines=V%C5%A9+Minh+Ph%C3%A1t+%2F+PhatDev;Full+Stack+Engineer+%26+Designer;17+y.o.+%E2%80%A2+No+Limit+%E2%80%A2+Pure+Skill" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&color=00FFFF&center=true&vCenter=true&lines=V%C5%A8+MINH+PH%C3%81T+%2F+PHATDEV;FULL+STACK+%7C+DESIGN+%7C+REVERSE+ENG.;CODE+%E2%80%A2+CREATE+%E2%80%A2+AUTOMATE" alt="Typing SVG">
 </div>
 
 ---
 
-# ✨ Về Tôi (About Me)
+# `> ABOUT::PHATDEV <`
 
-Chào mừng đến với trang cá nhân của tôi! Tôi là **Vũ Minh Phát (PhatDev)**, một **Full Stack Engineer** và **Designer** trẻ tuổi (17 tuổi) đến từ TP. Hồ Chí Minh, Việt Nam.
+## 👨‍💻 VŨ MINH PHÁT (PHATDEV) - FULL STACK ENGINEER / DESIGNER
 
-Tôi có niềm đam mê mãnh liệt với công nghệ, từ những dòng code backend hardcore, giao diện frontend pixel-perfect, đến lập trình mobile native, tự động hóa và reverse engineering phức tạp.
+* **Vị trí:** Full Stack Engineer | UI/UX & Motion Designer
+* **Tuổi:** 17 y.o.
+* **Địa điểm:** TP. Hồ Chí Minh, Việt Nam
+* **Triết lý:** `Backend Hardcore` ➝ `Frontend Pixel-Perfect` ➝ `Mobile Native` ➝ `Automation & Reverse`
 
-> **"Code is the language of the future, and design is its aesthetic."**
+<br>
 
-## 🌐 Liên Hệ (Socials & Contact)
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-AVAILABLE%20FOR%20COLLABORATION-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=00FFFF"/>
+</div>
+
+---
+
+# `> CONTACT & SOCIALS <`
 
 <p align="center">
   <a href="https://discord.gg/glorybunny007" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/DISCORD-glorybunny007-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://www.facebook.com/share/17QcGsYAXC/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://tiktok.com/@techdavisk007" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+    <img src="https://img.shields.io/badge/FACEBOOK-VMP%20PhatDev-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="mailto:techhopperstudio@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://vmp123pp.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/GMAIL-techhopperstudio-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
 ---
 
-# 🛠️ Kỹ Thuật Chuyên Môn (Tech Stack)
+# `> TECH::STACKS <`
 
-Tôi chuyên sâu và làm việc đa nền tảng với các công nghệ dưới đây:
-
-## 💻 Ngôn Ngữ & Khung Phát Triển (Languages & Frameworks)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+<div align="center">
+  <img src="https://img.shields.io/badge/JAVA-000000.svg?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
+  <img src="https://img.shields.io/badge/KOTLIN-000000.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin">
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=3670A0" alt="Python">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="TypeScript">
+  <img src="https://img.shields.io/badge/GO-000000.svg?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go">
+  <img src="https://img.shields.io/badge/RUST-000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <br>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/REACT-000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/NESTJS-000000.svg?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS">
+  <img src="https://img.shields.io/badge/FLUTTER-000000.svg?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter">
+  <img src="https://img.shields.io/badge/DOCKER-000000.svg?style=for-the-badge&logo=docker&logoColor=0db7ed" alt="Docker">
+  <img src="https://img.shields.io/badge/GOOGLE_CLOUD-000000.svg?style=for-the-badge&logo=google-cloud&logoColor=4285F4" alt="Google Cloud">
+  <br>
+  <img src="https://img.shields.io/badge/FIGMA-000000.svg?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma">
+  <img src="https://img.shields.io/badge/PS_AE-000000.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF" alt="Photoshop/After Effects">
+  <img src="https://img.shields.io/badge/IOT/HARDWARE-000000.svg?style=for-the-badge&logo=arduino&logoColor=00979D" alt="IOT/Hardware">
+</div>
+
+---
+
+# `> SKILL::PROFICIENCY <`
+
+| 🗂️ Lĩnh Vực | Chi Tiết | 📊 Trình Độ |
+|:------------------------|:----------------------------------------------------------|:------------------------------|
+| **Full Stack (Web/App)** | React, NestJS, Next.js, Flutter, Databases | <span style="color:#00FFFF;">**█████████████████████████**</span> **100%** |
+| **Mobile Native** | Swift/iOS, Kotlin/Android, UI/UX Principle | <span style="color:#00FFFF;">**████████████████████████**</span> **98%** |
+| **Automation & Reverse** | Scripting, Protocol Analysis, Binary Patching | <span style="color:#00FFFF;">**█████████████████████████**</span> **100%** |
+| **Backend/DevOps** | Microservices, Docker, CI/CD, Cloud (GCP/AWS) | <span style="color:#00FFFF;">**█████████████████████**</span> **92%** |
+| **Design (UI/Motion)** | Figma Prototyping, AE/PS Compositing | <span style="color:#00FFFF;">**█████████████████████████**</span> **99%** |
+
+---
+
+# `> CREATIONS & PREFERENCES <`
+
+## 💎 Ngôn Ngữ Yêu Thích (Favorite Languages)
+> **Top 3 Ngôn ngữ tôi sử dụng thường xuyên nhất cho các dự án lớn và có tính ổn định cao.**
+<p align="center">
+  <img src="https://img.shields.io/badge/1.%20KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/2.%20TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/3.%20GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 </p>
 
-## ☁️ Backend & DevOps & Cloud
+## 📱 Ứng Dụng/Dự Án Đã Tạo (Top Creations)
+> **Các sản phẩm đã xuất bản hoặc dự án nổi bật chứng minh khả năng Full Stack.**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Firebase-039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-</p>
-
-## 🎨 Thiết Kế & Khác (Design & Others)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects">
-  <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
-</p>
+* `[Project Name 1]`: Một hệ thống quản lý dữ liệu hiệu năng cao được xây dựng trên **NestJS/PostgreSQL**. (Xem thêm tại [Link Repo])
+* `[Project Name 2]`: Ứng dụng di động Native (Android/iOS) phát triển bằng **Flutter** với kiến trúc **Riverpod/Clean Architecture**.
+* `[Project Name 3]`: Công cụ Reverse Engineering chuyên dụng được viết bằng **Python** và **Rust** để tối ưu hóa hiệu suất.
 
 ---
 
-# 📈 Trình Độ Kỹ Năng (Skills Level)
-
-| Kỹ Năng (Skill) | Chi Tiết | Cấp Độ (Level) |
-|:-----------------------|:----------------------------------------------------------|:------------------------------|
-| **Full Stack Development** | Web (React/Next/Node/Nest), Mobile (Flutter/Native) | █████████████████████████ 100% |
-| **Mobile Native** | iOS (Swift), Android (Kotlin/Java) | ████████████████████████   98% |
-| **UI/UX & Motion Design**| Figma, Photoshop, After Effects | █████████████████████████  99% |
-| **Backend Architecture**| Microservices, Database Design, API Security | ███████████████████████    96% |
-| **DevOps & Cloud** | CI/CD, Docker, Kubernetes, GCP/AWS | █████████████████████      92% |
-| **Automation & Reverse** | Scripting (Python/Go), Decompiling, Hacking | █████████████████████████ 100% |
-| **Hardware & IoT** | Arduino, Raspberry Pi, Sensor Integration | ██████████████████████     94% |
-
----
-
-# 🚀 Dự Án Nổi Bật (Key Projects)
-
-Đây là những dự án mà tôi tâm đắc và đã đóng góp nhiều nhất:
-
-| Dự Án | Mô Tả | Công Nghệ Chính | Repository |
-|:---|:---|:---|:---|
-| **[Tên Project 1]** | [Mô tả ngắn gọn về chức năng và thành tựu của dự án này] | `React`, `NestJS`, `PostgreSQL` | [Link Repo] |
-| **[Tên Project 2]** | [Mô tả ngắn gọn về chức năng và thành tựu của dự án này] | `Flutter`, `Firebase`, `Kotlin` | [Link Repo] |
-| **[Tên Project 3]** | [Mô tả ngắn gọn về chức năng và thành tựu của dự án này] | `Python`, `Go`, `Docker` | [Link Repo] |
-
----
-
-# 📊 Thống Kê GitHub (GitHub Stats)
+# `> GITHUB::PROFILE <`
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vmp123pp&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=21"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vmp123pp&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00FFFF&icon_color=00FFFF&line_height=22"/>
   <br>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=vmp123pp&theme=radical&hide_border=true"/>
-  <br>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmp123pp&theme=radical&hide_border=true&layout=compact&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmp123pp&theme=dark&hide_border=true&layout=compact&langs_count=6&title_color=00FFFF&icon_color=00FFFF"/>
 </div>
 
-## 🏆 Thành Tích (GitHub Trophies)
+<br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vmp123pp&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=1"/>
-</div>
+## ⭐ Thành Tựu Nổi Bật (Achievements)
+> **Sử dụng Text Badge thay thế cho hình ảnh Trophies**
 
----
+* <img src="https://img.shields.io/badge/Achieved-Master%20Coder-00FFFF?style=flat&logo=github&logoColor=white"/> Đạt được danh hiệu Master Coder với số lượng đóng góp và đánh giá cao.
+* <img src="https://img.shields.io/badge/Achievement-Top%20Contributor-00FFFF?style=flat&logo=github&logoColor=white"/> Liên tục nằm trong nhóm Top Contributor của các dự án nguồn mở.
 
-### 💬 Random Dev Quote
+## 💡 Dev Quote (Triết Lý Code)
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</div>
-
-### 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vmp123pp&limit=5&theme=prussian&combine_all_yearly_contributions=true"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vmp123pp&label=Profile+Views&color=00ff88&style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/vmp123pp?style=social&label=Follow&maxAge=2592000" alt="GitHub followers">
-  <br><br>
-  <img src="https://visitcount.itsvg.in/api?id=vmp123pp&icon=5&color=10"/>
-  <br><br>
-  <b><a href="mailto:techhopperstudio@gmail.com" style="color:#00ff88;">Liên hệ với tôi!</a></b><br>
-  <small>Made with pure skill & passion by PhatDev</small>
-</div>
+```text
+"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
