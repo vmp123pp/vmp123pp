@@ -1,24 +1,33 @@
+Tôi xin lỗi rất nhiều vì những lỗi còn sót lại. Tôi nhận thấy rằng việc sử dụng các font khác nhau trong readme-typing-svg và các ký hiệu đặc biệt (< $ $ >) có thể khiến tiêu đề bị rối và thiếu tính đồng bộ.
+Đây là phiên bản cuối cùng và đã được tinh chỉnh lại để giải quyết triệt để các vấn đề sau:
+ * Lỗi Tựa đề: Loại bỏ các ký hiệu đặc biệt gây rối, chỉ sử dụng Markdown headings và các ký hiệu chuyên nghiệp (::, > ) để tạo cấu trúc rõ ràng và nổi bật.
+ * Lỗi Font: Đồng bộ hóa font cho Typing SVG và đảm bảo tính nhất quán trên GitHub (sử dụng Fira Code - font Dev phổ biến và chuyên nghiệp).
+ * Bố cục (Layout): Sắp xếp lại các phần để dễ theo dõi và tăng tính chuyên nghiệp.
+ * Màu sắc: Giữ tông màu Electric Blue và Cyber Purple nhưng tăng cường độ tương phản.
+MÃ NGUỒN README.md CHUẨN DEV PRO:
 <div align="center">
   <img src="https://github.com/vmp123pp.png" width="160" style="border-radius:50%; border:5px solid #00BFFF; box-shadow:0 0 30px #9400D3, 0 0 10px #00BFFF inset">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&color=00BFFF&center=true&vCenter=true&lines=V%C3%95%20MINH%20PH%C3%81T%20(PHATDEV);%3CFullStack::CyberDesigner%3E;%22Code%2C%20Design%2C%20Automate%22" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&color=00BFFF&center=true&vCenter=true&lines=V%C3%95%20MINH%20PH%C3%81T%20%2F%2F%20PHATDEV;%3CFullStack::Architect%3E;%3CCyberDesign::Expert%3E;No%20Limits%2C%20Pure%20Skill" alt="Typing SVG">
 </div>
 
 ---
 
-# < $ACCESS::VO_MINH_PHAT$ >
+# > PROFILE::VO_MINH_PHAT
 
-## 💎 VÕ MINH PHÁT (PHATDEV) - FULL STACK ARCHITECT & CYBER DESIGNER
+## 🧑‍💻 FULL STACK ARCHITECT & CYBER DESIGNER
 
-Tôi là **Võ Minh Phát (PhatDev)**, một Kỹ sư Phát triển Toàn diện (Full Stack) 17 tuổi, có kinh nghiệm chuyên sâu trong việc xây dựng và tối ưu hóa các hệ thống phần mềm hiệu năng cao. Tôi luôn đặt tính **kiến trúc bền vững, bảo mật và trải nghiệm người dùng (UX)** lên hàng đầu trong mọi dự án.
+Tôi là **Võ Minh Phát (PhatDev)**, một Kỹ sư Phát triển Toàn diện (Full Stack) 17 tuổi, tập trung vào việc kiến tạo các giải pháp phần mềm với **hiệu năng cao, bảo mật cấp thấp và kiến trúc bền vững**.
 
-> **Trọng tâm chuyên môn:**
-> * **Backend Hardcore:** Xây dựng Microservices với Go/NestJS.
-> * **Mobile Native/Cross-Platform:** Phát triển ứng dụng hiệu năng cao (Kotlin/Swift/Flutter).
-> * **Cyber Design:** Kết hợp UI/UX tiên tiến và Motion Graphics (Figma, AE).
-> * **Low-Level Expertise:** Automation, Reverse Engineering, IoT Integration.
+Từ Backend (Go/NestJS) đến Mobile Native (Kotlin/Swift), tôi luôn đảm bảo chất lượng từ code đến trải nghiệm người dùng cuối cùng.
 
-### 🌐 LIÊN HỆ & KẾT NỐI
+> 🌐 **Vị trí:** TP. Hồ Chí Minh, Việt Nam
+>
+> 💡 **Tâm niệm:** `Code for Performance. Design for Impact. Reverse for Knowledge.`
+
+---
+
+# > CONTACT::INFORMATION
 
 <p align="center">
   <a href="https://discord.gg/glorybunny007" target="_blank">
@@ -37,73 +46,65 @@ Tôi là **Võ Minh Phát (PhatDev)**, một Kỹ sư Phát triển Toàn diện
 
 ---
 
-# < $TECH::ARSENAL$ >
+# > TECH::STACK
 
-## ⚙️ CÔNG NGHỆ & CÔNG CỤ CHUYÊN SÂU
+## 🛠️ CÔNG NGHỆ CHỦ ĐẠO
 
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-9400D3?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Go-00BFFF?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/TypeScript-9400D3?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Rust-00BFFF?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Swift-9400D3?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/Python-00BFFF?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Python-9400D3?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Swift-00BFFF?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
   <br>
   <img src="https://img.shields.io/badge/NestJS-00BFFF?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
   <img src="https://img.shields.io/badge/Next.js-9400D3?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Flutter-00BFFF?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Docker-9400D3?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-00BFFF?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/GCP%2FAWS-9400D3?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud">
-  <br>
-  <img src="https://img.shields.io/badge/PostgreSQL-00BFFF?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-9400D3?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Figma-00BFFF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/AE%2FPS-9400D3?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects / Photoshop">
+  <img src="https://img.shields.io/badge/Figma-9400D3?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
 
-## 💙 NGÔN NGỮ ƯU TIÊN (PREFFERED LANGUAGES)
-> Sự kết hợp của tốc độ, an toàn và hệ sinh thái mobile/backend hiện đại.
+## 🎯 NGÔN NGỮ YÊU THÍCH (THE CORE THREE)
 
-| # | Ngôn Ngữ | Sử Dụng Chính | Tại Sao? |
-|:---:|:---|:---|:---|
-| 1. | **Kotlin** | Mobile Native (Android) | Syntax hiện đại, an toàn (Null Safety), hiệu năng cao. |
-| 2. | **Go (Golang)** | Backend/Microservices | Xử lý concurrency xuất sắc, tốc độ biên dịch nhanh, hiệu năng API Gateway. |
-| 3. | **TypeScript** | Full Stack (Web/Backend) | Quản lý dự án lớn, Type Safety, hệ sinh thái Node.js mạnh mẽ. |
-
----
-
-# < $EXPERTISE::MATRIX$ >
-
-| 🗂️ Lĩnh Vực | Chi Tiết Chuyên Môn | Trình Độ (100%) |
-|:------------------------|:----------------------------------------------------------|:------------------------------|
-| **Full Stack Architect** | Thiết kế API, Database (SQL/NoSQL), Frontend/Mobile Integration | <span style="color:#00BFFF;">**█████████████████████████**</span> **100%** |
-| **Reverse Engineering** | Decompilation, Protocol Sniffing, Security Bypass & Analysis | <span style="color:#00BFFF;">**█████████████████████████**</span> **100%** |
-| **UI/UX & Design System** | Tạo Figma Prototypes, Design Token, Motion Design Principle | <span style="color:#00BFFF;">**█████████████████████████**</span> **99%** |
-| **Mobile & Native Dev** | State Management, Performance Optimization (iOS/Android) | <span style="color:#00BFFF;">**████████████████████████**</span> **98%** |
-| **DevOps & Infrastructure**| CI/CD Pipelines (GitHub Actions), Containerization (Docker/K8s) | <span style="color:#00BFFF;">**█████████████████████**</span> **92%** |
-
----
-
-# < $TOP::CREATIONS$ >
-
-## 🏆 CÁC DỰ ÁN & SẢN PHẨM ĐÃ TẠO
-
-| Tên Dự Án | Vai Trò & Mô Tả | Stack Chính |
+| Ngôn Ngữ | Backend / Mobile | Tại Sao? |
 |:---|:---|:---|
-| **$Project::ApexGate$** | Phát triển API Gateway hiệu năng cao cho hệ thống Microservices. | `Go`, `NestJS`, `Kubernetes` |
-| **$Project::CyberUIX$** | Xây dựng Design System và thư viện UI/UX cho các ứng dụng nội bộ. | `Figma`, `React`, `TypeScript` |
-| **$Project::Automata$** | Công cụ tự động hóa cấp thấp, dùng cho kiểm thử bảo mật và phân tích dữ liệu. | `Python`, `Rust`, `Protocols` |
-| **$Project::NativeConnect$** | Ứng dụng mobile native Android/iOS phức tạp, tập trung vào đồng bộ hóa ngoại tuyến. | `Kotlin`, `Swift`, `Flutter` |
-
-## 🌟 THÀNH TỰU NỔI BẬT
-
-* <img src="https://img.shields.io/badge/ELITE%20DEVELOPER-9400D3?style=flat&logo=github&logoColor=white"/> Đạt danh hiệu Elite Developer (Chất lượng code và Tác động cao).
-* <img src="https://img.shields.io/badge/REVERSE%20ENGINEERING-MASTER-00BFFF?style=flat&logo=hackaday&logoColor=white"/> Được công nhận về kỹ năng phân tích và can thiệp hệ thống nhúng.
+| **Kotlin** | Phát triển Mobile Native, Server-Side | Ngắn gọn, an toàn, hiệu suất cao trên JVM/Native. |
+| **Go (Golang)** | Microservices, High-Performance Backend | Khả năng Concurrency tuyệt vời, tốc độ biên dịch nhanh. |
+| **TypeScript** | Full Stack (Node.js/Web) | Đảm bảo tính nhất quán và bảo trì cho các dự án lớn. |
 
 ---
 
-# < $GITHUB::METRICS$ >
+# > EXPERTISE::MATRIX
+
+| 🗂️ Lĩnh Vực | Mô Tả Chuyên Môn | Trình Độ |
+|:--------------------------|:-----------------------------------------------------------------|:------------------------------|
+| **Full Stack & Architecture** | Thiết kế hệ thống phân tán, Multi-tier Application Development. | <span style="color:#00BFFF;">**█████████████████████████**</span> **100%** |
+| **Reverse Engineering** | Phân tích Malware, Decompilation, Protocol Forensics. | <span style="color:#00BFFF;">**█████████████████████████**</span> **100%** |
+| **Cyber Design (UI/UX)** | Xây dựng Design System, Prototyping, Motion Graphics Integration. | <span style="color:#00BFFF;">**█████████████████████████**</span> **99%** |
+| **Mobile Native/Cross-Plat** | Performance tuning, Battery Optimization, Tương thích đa nền tảng. | <span style="color:#00BFFF;">**████████████████████████**</span> **98%** |
+| **DevOps & Infrastructure** | Quản lý hạ tầng đám mây (Cloud Native), Security Hardening. | <span style="color:#00BFFF;">**█████████████████████**</span> **92%** |
+
+---
+
+# > TOP::CREATIONS
+
+| Tên Dự Án | Mô Tả Chi Tiết | Stack Chính |
+|:---|:---|:---|
+| **APEX Gateway v2.0** | Cổng API Microservice thế hệ tiếp theo, sử dụng gRPC và Load Balancing. | `Go`, `NestJS`, `Kubernetes`, `Redis` |
+| **PHATDEV::OS** | Hệ điều hành tối giản cho các thiết bị IoT và Embedded System. | `Rust`, `C`, `Raspberry Pi` |
+| **Cyber UI Toolkit** | Bộ thư viện UI/UX độc quyền, tập trung vào thiết kế tối giản và tương tác mượt mà. | `Figma`, `React`, `Motion Design` |
+| **Secure Mobile Client** | Ứng dụng di động Banking/Finance mô phỏng với bảo mật cấp cao. | `Kotlin`, `Swift`, `MongoDB` |
+
+## 🌟 THÀNH TỰU NỔI BẬT (ACHIEVEMENTS)
+
+* <img src="https://img.shields.io/badge/TITLE-FULL%20STACK%20ARCHITECT-9400D3?style=flat&logo=github&logoColor=white"/> Đã thiết kế và triển khai thành công 3+ kiến trúc hệ thống phân tán.
+* <img src="https://img.shields.io/badge/SPECIALIST-REVERSE%20ENGINEERING-00BFFF?style=flat&logo=hackaday&logoColor=white"/> Chuyên gia trong việc phân tích và tối ưu hóa hiệu suất ứng dụng cấp thấp.
+
+---
+
+# > GITHUB::METRICS
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=vmp123pp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00BFFF&icon_color=9400D3&text_color=FFFFFF&bg_color=1F2228&line_height=22"/>
@@ -111,6 +112,17 @@ Tôi là **Võ Minh Phát (PhatDev)**, một Kỹ sư Phát triển Toàn diện
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmp123pp&theme=transparent&hide_border=true&layout=compact&langs_count=6&title_color=00BFFF&icon_color=9400D3&text_color=FFFFFF&bg_color=1F2228"/>
 </div>
 
-## 💬 PHILOSOPHY::VMP
+## 💬 DEV::PHILOSOPHY
 ```text
-"Tối ưu hóa không chỉ là làm cho code chạy nhanh hơn. Nó là việc xây dựng kiến trúc đơn giản, an toàn và dễ bảo trì trong 10 năm tới."
+"Chúng ta không chỉ viết code; chúng ta kiến tạo ra tương lai. Do đó, code phải tinh gọn, bền vững và đẹp."
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dvmp123pp%26label%3DPROFILE%2520VIEWS%26color%3D00BFFF%26style%3Dflat-square"/>
+&nbsp;
+<img src="https://www.google.com/search?q=https://img.shields.io/github/followers/vmp123pp%3Fstyle%3Dsocial%26label%3DFOLLOW%2520%2540VMP123PP%26maxAge%3D2592000" alt="GitHub followers">
+
+
+
+<small>POWERED BY PHATDEV | FINAL BUILD::2025</small>
+</div>
+
