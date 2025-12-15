@@ -1,5 +1,20 @@
 # 💫 About Me:
-Xin Chào Tôi Là Võ Minh Phát ( PhatDev ) - Full Stack & Engineer/Designer
+-Xin Chào Tôi Là Võ Minh Phát ( PhatDev ) - Full Stack & Engineer/Designer
+- Tên Thật : Võ Minh Phát
+- Biệt Danh : Phat Dev , Dev
+- Sinh sống hiện tại : TPHCM ( Quận Bình Tân
+- Cư Trú , Quê Quán : Tây Ninh
+- Tuổi Tác : 18
+- Năm Sinh : 23/08/2007
+- Ngôn Ngữ Lập Trình : Java , Kotlin , Swift , PHP , Javascript , Html , CSS , Lua , C# , C++ , C , Python ,Objective C , Rust , Flutter
+- Ngôn Ngữ Tôi Yêu : Java , Kotlin , Swift , Python , C++ , JavaScript
+- Chuyên Môn : Dựng và phát triển App với công nghệ E2E Mobile App , Website , Engineer API
+- Thể Loại : DevOps , Developer Mobile App
+- Lĩnh Vực : Mạng Máy Tính , Truyền Thông , Nhà phát triển phần mềm
+- Kỹ Thuật : E2E Mobile App , VPN On Top , Security , Cracker , API
+- Thành Tựu : phát triển thành công ứng dụng Hopper trên Mobile , VPN tường lửa bảo vệ người dùng , API ChatBot , Website truyền thông mạng
+- Mục Tiêu : Phát triển và mở rộng ứng dụng vươn tầm và đạt được thành tích tốt nhất trong tương lai
+
 
 
 ## 🌐 Socials:
