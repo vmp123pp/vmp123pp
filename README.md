@@ -13,7 +13,10 @@
 - Lĩnh Vực : Mạng Máy Tính , Truyền Thông , Nhà phát triển phần mềm
 - Kỹ Thuật : E2E Mobile App , VPN On Top , Security , Cracker , API
 - Thành Tựu : phát triển thành công ứng dụng Hopper trên Mobile , VPN tường lửa bảo vệ người dùng , API ChatBot , Website truyền thông mạng
-- Mục Tiêu : Phát triển và mở rộng ứng dụng vươn tầm và đạt được thành tích tốt nhất trong tương lai
+- Mục Tiêu : Phát triển và mở rộng ứng dụng vươn tầm và đạt được thành tích tốt nhất trong tương lai.
+- Lưu Ý : Tôi chỉ phát triển phần mềm , Website , API và những thứ tôi chuyên môn , bất cứ cái khác như Cheat , Cracker , Hacking , Lạm Dụng , Website Scam chúng tôi không làm và chuyên môn
+- Email : techdaviskstudio@gmail.com
+  
 
 
 
