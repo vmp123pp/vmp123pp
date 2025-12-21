@@ -16,7 +16,42 @@
 - Mục Tiêu : Phát triển và mở rộng ứng dụng vươn tầm và đạt được thành tích tốt nhất trong tương lai.
 - Lưu Ý : Tôi chỉ phát triển phần mềm , Website , API và những thứ tôi chuyên môn , bất cứ cái khác như Cheat , Cracker , Hacking , Lạm Dụng , Website Scam chúng tôi không làm và chuyên môn
 - Email : techdaviskstudio@gmail.com
+- Discord : @glorybunny007
+- TikTok : techdavisk007
+
+-----------------------------
+(App Mobile)
+- Hopper App
+- Hopping Change State Work
+- Tạo Mã QR , Thanh toán
+- Vpn Tường Lửa
+(Website)
+- Truyền thông mạng , marketing tối ưu
+- Seller , Profile App
+- Seller , Change App
+( Cheat )
+- Fake Lag , ByBass
+-Cracker Database , Front - Backend
+- Security Cheat , AntiCheat , UserData
+(Hacking)
+- Ddos , FireWall , Hacking Software
+- Dcart , Botnet , BotMaster
+- Decingder , Fingleder , NetState
+- BotCap , BotGame , BotKing
+(Security)
+-App , Website , EXE , ..
+(API , ChatBot)
+- Phat Dev Bot
+- Bot Chat
+- Google Chat
+- Node Js , Spam Hacking
+- ...
+
+
+  ..end..
   
+
+
 
 
 
