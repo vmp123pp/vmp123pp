@@ -40,13 +40,16 @@
 
 (Hacking)
 - Ddos , FireWall , Hacking Software
-- Dcart , Botnet , BotMaster
+- Dcrat , Botnet , BotMaster
 - Decingder , Fingleder , NetState
 - BotCap , BotGame , BotKing
 
 
 (Security)
 -App , Website , EXE , ..
+
+
+
 (API , ChatBot)
 - Phat Dev Bot
 - Bot Chat
@@ -55,7 +58,7 @@
 - ...
 
 
-  ..end..
+## Minh Phat Dev Đẹp Trai 💙
   
 
 
